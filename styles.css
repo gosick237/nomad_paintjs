@@ -86,7 +86,7 @@ body {
   width: 100%;
   height: 8px;
   cursor: pointer;
-  animate: 0.2s;
+  animation: 0.2s;
   background: #cfe3f1;
 }
 

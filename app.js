@@ -9,7 +9,7 @@ const INITIAL_COLOR = "#black";
 //Must notice canvas size to draw ; stroke()
 //canvas = <canvas id="jsCanvas" class="canvas" width="700" height="700">
 //But, canvas.height=150  wtf??? width=300
-//     canvas.offsetHeight=700   offsetwidth=700
+//     canvas.offsetHeight=700   offsetWidth=700
 canvas.width = canvas.offsetWidth;
 canvas.height = canvas.offsetHeight;
 
